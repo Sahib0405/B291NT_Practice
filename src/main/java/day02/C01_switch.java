@@ -38,6 +38,7 @@ public class C01_switch {
                 break;
             case '/':
                 System.out.println("Lütfen bolmek istediginiz 2 sayiyi giriniz");
+
                 System.out.println("Sayilarin bolumu : "+input.nextDouble()/ input.nextDouble());
                 //odev paydanin 0 olmasi durumunu kontrol altına alınız
                 break;
